@@ -79,7 +79,7 @@ class App(customtkinter.CTk):
         self.planeIconList = []
 
         # TODO: Move back to a relevant place?
-        self.switchAirport(self.selectableAirports["EGPH"]["airport"])
+        self.switchAirport(self.selectableAirports["OTHH"]["airport"])
         self.configFrame = customtkinter.CTkFrame(
             self, corner_radius=12)
         self.configFrame.grid(row=0, column=2, rowspan=1,
