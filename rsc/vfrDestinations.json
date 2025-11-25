@@ -1,31 +1,38 @@
 {
-    "EGCC": [
-        "EGCB",
-        "EGNH",
-        "EGCM",
-        "EGCJ",
-        "EGCK",
-        "EGBM"
+    "OMDB": [
+        "OMAA",
+        "OMDW",
+        "OMSJ",
+        "OMFJ",
+        "OMAL",
+        "OMRK"
     ],
-    "EGLL": [
-        "EGLW"
+    "OTHH": [
+        "OTBD"
     ],
-    "EGPH": [
-        "EGPT", 
-        "EGPN", 
-        "EGPG",
-        "EGPF",
-        "EGPD",
-        "EGNT"
+    "OOMS": [
+        "OOMS", 
+        "OOSQ", 
+        "OOMK",
+        "OOKB",
+        "OOSA",
+        "OODQ"
     ],
-    "EGSS": [
-        "EGSC",
-        "EGMA",
-        "EGSU",
-        "EGSH",
-        "EGMC",
-        "EGKR",
-        "EGKB"
+    "OMAA": [
+        "OMDB",
+        "OMDW",
+        "OMSJ",
+        "OMFJ",
+        "OMAL",
+        "OMRK"
+    ],
+    "OMSJ": [
+        "OMDB",
+        "OMDW",
+        "OMAA",
+        "OMFJ",
+        "OMAL",
+        "OMRK"
     ]
 
 }
